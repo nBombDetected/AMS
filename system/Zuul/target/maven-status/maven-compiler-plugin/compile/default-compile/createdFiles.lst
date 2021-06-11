@@ -1,0 +1,3 @@
+js/ZuulServer.class
+js/filter/AuthorityFilter.class
+js/config/CorsConfig.class
